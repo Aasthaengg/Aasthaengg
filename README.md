@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://github.com/ShambhaviCodes/ShambhaviCodes/raw/master/undraw_freelancer_b0my%20(1).gif" height="200"/>
+ 
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Aastha Singh</h1>
@@ -14,14 +13,14 @@
 
 <p align="center">
   <em>
-    This is ME, Aastha Singh, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br>
-    A budding <b>Data Scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>NLP , Machine Learning, and Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>passionate</b>
-    with the idea of <b>challenging</b> herself and wants a <b>platform</b> to 
-    <b>grow </b> and 
-    <b>excel!</b>
-  </em> 
-  <br>
+    Wlcome to my page, This is me Aastha Singh, I am a <b>final year</b> B.Tech student from <a href="https://www.acetamritsar.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br>
+    A budding <b>Data Scientist </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> on a journey to make exciting contributions in the field of <b>NLP , Machine Learning, and Deep Learning</b>&nbsp;<br>I am a storyteller born out of adventures and who is <b>passionate</b> with the idea of <b>challenging</b> myself and building this <b>platform</b> to 
+    <b>connect, grow</b> and 
+    <b>excel!</b><br>
    <b><i>Learning while HOPING & HUSTLING!</i></b>
+    </br><img src="https://data.whicdn.com/images/222319615/original.gif" width="200px">&nbsp
+  </em> 
+  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasthaengga&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaengg" /> </p>
