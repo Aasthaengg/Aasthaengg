@@ -2,7 +2,7 @@
   <img src="https://github.com/ShambhaviCodes/ShambhaviCodes/raw/master/undraw_freelancer_b0my%20(1).gif" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aastha Singh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Aastha Singh</h1>
 <h3 align="center">Natural Language Processing | Computer Vision | Data Science Blogger | Data Science</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aastha-singh-94a9631a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -15,24 +15,25 @@
 <p align="center">
   <em>
     This is ME, Aastha Singh, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br>
-    A budding <b>Data Scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>NLP , Machine Learning, and Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    A budding <b>Data Scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>NLP , Machine Learning, and Deep Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>passionate</b>
+    with the idea of <b>challenging</b> herself and wants a <b>platform</b> to 
+    <b>grow </b> and 
+    <b>excel!</b>
   </em> 
   <br>
-   <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+   <b><i>Learning while HOPING & HUSTLING!</i></b>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasthaengga&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaengg" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***ABOUT ME***
 
-✔ I’m currently learning **Machine Learning** & **Deep Learning**<br>
+✔ I’m currently understanding the implementations of **Machine Learning** & **Deep Learning**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution** in the field of Data Science.<br>
 ✔ I regularly write articles on [Medium](https://aastha-eng.medium.com/) <br>
-✔ I regularly participate in Kaggle Competitions. [Kaggle](https://www.kaggle.com/aasthasingh21/) <br>
+✔ I am actively participating in ML reproducibility conferences and papers including: NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR and ECCV <br>
+✔ I am working as a Data Science intern at <a href="https://www.halliburton.com">Halliburton </a></br>
+✔ I love to travel with a purpose which is educational and adventurous! <img src="https://media.tenor.com/images/dd9e2d278c1b0ce2f6ec658589fd2a41/tenor.gif" width="30px">&nbsp;
 
  
 
