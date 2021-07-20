@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    Wlcome to my page, This is me Aastha Singh, I am a <b>final year</b> B.Tech student from <a href="https://www.acetamritsar.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br>
+    Wlcome to my page, Glad you are visiting my profile! This is me Aastha Singh, I am a <b>final year</b> B.Tech student from <a href="https://www.acetamritsar.ac.in/"> <b>Birla Institute of Technology - Mesra</b>, Ranchi</a>. <br>
     A budding <b>Data Scientist </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> on a journey to make exciting contributions in the field of <b>NLP , Machine Learning, and Deep Learning</b>&nbsp;<br>I am a storyteller born out of adventures and who is <b>passionate</b> with the idea of <b>challenging</b> myself and building this <b>platform</b> to 
     <b>connect, grow</b> and 
     <b>excel!</b><br>
