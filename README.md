@@ -28,10 +28,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***ABOUT ME***
 
 ✔ I’m currently understanding the implementations of **Machine Learning** & **Deep Learning**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution** in the field of Data Science.<br>
 ✔ I regularly write articles on [Medium](https://aastha-eng.medium.com/) <br>
-✔ I am actively participating in ML reproducibility conferences and papers including: NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR and ECCV <br>
-✔ I am working as a Data Science intern at <a href="https://www.halliburton.com">Halliburton </a></br>
+✔ I am working as a Data Science intern at <a href="https://www.halliburton.com"> NVIDIA, India</a></br>
 ✔ I love to travel with a purpose which is educational and adventurous! <img src="https://media.tenor.com/images/dd9e2d278c1b0ce2f6ec658589fd2a41/tenor.gif" width="30px">&nbsp;
 
  
