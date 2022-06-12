@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aasthaengg&label=GitHub%20Views&color=ff69b4	&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=aasthaengg&label=GitHub%20Views&color=ff69b4&style=for-the-badge">
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%aasthaengg&screen_name=aasthaengg">
     <img src="https://img.shields.io/twitter/follow/tweetsbyaastha?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a>
@@ -72,8 +72,8 @@
 <h2 align="center"><i><b>Stats for Nerds</b></i></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aasthaengg&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="stats" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaengg&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="aasthaengg" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aasthaengg&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="stats" height="193x"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaengg&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="aasthaengg" width="410px"/>
 </p>
 
 ---
