@@ -82,7 +82,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aasthaengg&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="stats" height="193x"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaengg&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="aasthaengg" width="410px"/>
-<img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasthaengg&custom_title=Aastha's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /><
+<img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasthaengg&custom_title=Aastha's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="410px" height="200px" />
 </p>
 
 ---
