@@ -31,7 +31,7 @@
 
 → I regularly write articles on [Medium](https://aastha-eng.medium.com/)
 
-→ I love to travel with a purpose which is educational and adventurous! <img src="https://media.tenor.com/images/dd9e2d278c1b0ce2f6ec658589fd2a41/tenor.gif" width="30px">&nbsp;
+→ I love to travel with a purpose which is educational and adventurous!
 
  ---
 
