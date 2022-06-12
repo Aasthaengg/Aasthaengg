@@ -21,13 +21,13 @@
 
 <h2 align="center"><i><b>About Me</b></i></h2>
 
-→ I have done my engineering in Electronics and Communication from Birla Institute of Technology, Mesra. 
+→ I have done my engineering with majors in Electronics and Communication and minors in Machine Learning from Birla Institute of Technology, Mesra. 
 
-→ My primary focus is on deep learning and research
+→ My primary focus is on Deep Learning research
 
 → I am currently working as an AI Research Intern at SparkCognition
 
-→ Previously I worked as a Data Science Intern at NVIDIA
+→ Previously I worked as a NLP Intern at NVIDIA
 
 → I regularly write articles on [Medium](https://aastha-eng.medium.com/)
 
