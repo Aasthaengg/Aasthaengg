@@ -10,16 +10,14 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aasthaengg&label=GitHub%20Views&color=ff69b4&style=for-the-badge">
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%aasthaengg&screen_name=aasthaengg">
     <img src="https://img.shields.io/twitter/follow/tweetsbyaastha?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a>
-</p>
+</p> -->
 
----
-
-<h2 align="center"><i><b>About Me</b></i></h2>
+<h2 align="center"><b>🙋‍♀️ About me</b></h2>
 
 → I have done my engineering in Electronics and Communication from Birla Institute of Technology, Mesra. 
 
@@ -33,9 +31,9 @@
 
 → I love to travel with a purpose which is educational and adventurous!
 
- ---
+---
 
-<h2 align="center"><i><b>Connect with me</b></i></h2>
+<h2 align="center"><b> 🤝 Connect with me</b></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aastha-singh-94a9631a1">
@@ -54,7 +52,7 @@
 
  ---
 
- <h2 align="center"><i><b>Technologies I am good at </b></i></h2>
+ <h2 align="center"><i><b>🛠 Technologies I am good at </b></i></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -69,16 +67,27 @@
 
 ---
 
-<h2 align="center"><i><b>Stats for Nerds</b></i></h2>
+<h2 align="center"><b>🔥 Streaks</b></h2>
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaengg&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+
+<h2 align="center"><b>📈 Stats for Nerds</b></h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aasthaengg&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="stats" height="193x"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaengg&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="aasthaengg" width="410px"/>
+<img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aasthaengg&custom_title=Aastha's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /><
 </p>
 
 ---
 
-<h2 align="center"><i><b>Blogs</b></i></h2>
+<h2 align="center"><b>📝 Blogs</b></h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Speed up the development with advanced pair programming: GitHub Copilot](https://medium.com/analytics-vidhya/speed-up-the-development-with-advanced-pair-programming-github-copilot-68eb6d30a993)
