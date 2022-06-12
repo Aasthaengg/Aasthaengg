@@ -52,7 +52,7 @@
 
  ---
 
- <h2 align="center"><i><b>🛠 Technologies I am good at </b></i></h2>
+ <h2 align="center"><b>🛠 Technologies I am good at </b></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
